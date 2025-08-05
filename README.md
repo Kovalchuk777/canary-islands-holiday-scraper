@@ -20,9 +20,9 @@ Filters offers by:
 
 ## 📦 Installation
 
-`git clone https://github.com/your-username/canary-islands-holiday-scraper.git
-cd canary-islands-holiday-scraper
-pip install -r requirements.txt `
+`git clone https://github.com/your-username/canary-islands-holiday-scraper.git`
+`cd canary-islands-holiday-scraper`
+`pip install -r requirements.txt `
 
 ## 🚀 Usage
 
